@@ -1,6 +1,12 @@
 # Desktop-Voice_Assistant
 
-##Functionality
+## Install the required dependencies by running:
+
+pip install -r requirements.txt
+
+Run the code by : python Desktop voice assistant.py
+
+## Functionality
 
 The script provides the following functionalities:
 
